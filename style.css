@@ -1,0 +1,36 @@
+body {
+    background: #f5f7fa;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.container {
+    max-width: 1000px;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+.chart-container {
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+
+.stat-card {
+    background: linear-gradient(135deg, #28a745, #20c997);
+    color: white;
+    border-radius: 12px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    padding: 8px;
+    background: #f1f1f1;
+    margin: 5px 0;
+    border-radius: 6px;
+}
